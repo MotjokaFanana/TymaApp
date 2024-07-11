@@ -8,11 +8,7 @@
 
 The Tymema_v1 project is a time management application designed to help users track their activities, manage goals, and improve productivity. This README provides an overview of the project structure, functionalities, and how to set it up.
 
-## Team Members:
-Motjoka Fanana – ST10089515 <br />
-Sibabalwe Nqaba – ST10047982 <br />
-Ted Ngobeni – ST10027949 <br />
-Tshiamo Thekiso – ST10132516 <br />
+
 
 ## Table of Contents
 
